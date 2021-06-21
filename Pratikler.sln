@@ -31,6 +31,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "metotlar", "metotlar\metotl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metotlar-overloading", "metotlar-overloading\metotlar-overloading.csproj", "{67A4C92B-2F17-4BF6-A501-88E35E2E672C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "recursive_extension_metotlar", "recursive_extension_metotlar\recursive_extension_metotlar.csproj", "{1B30C35B-9AD0-47ED-BA52-54E2D6526072}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{67A4C92B-2F17-4BF6-A501-88E35E2E672C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67A4C92B-2F17-4BF6-A501-88E35E2E672C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67A4C92B-2F17-4BF6-A501-88E35E2E672C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B30C35B-9AD0-47ED-BA52-54E2D6526072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B30C35B-9AD0-47ED-BA52-54E2D6526072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B30C35B-9AD0-47ED-BA52-54E2D6526072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B30C35B-9AD0-47ED-BA52-54E2D6526072}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
