@@ -29,9 +29,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "diziler-array-sinifi-metodl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "metotlar", "metotlar\metotlar.csproj", "{18F8981D-202E-4A81-992F-68FD3095CF21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metotlar-overloading", "metotlar-overloading\metotlar-overloading.csproj", "{67A4C92B-2F17-4BF6-A501-88E35E2E672C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "metotlar-overloading", "metotlar-overloading\metotlar-overloading.csproj", "{67A4C92B-2F17-4BF6-A501-88E35E2E672C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "recursive_extension_metotlar", "recursive_extension_metotlar\recursive_extension_metotlar.csproj", "{1B30C35B-9AD0-47ED-BA52-54E2D6526072}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "recursive_extension_metotlar", "recursive_extension_metotlar\recursive_extension_metotlar.csproj", "{1B30C35B-9AD0-47ED-BA52-54E2D6526072}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algoritma-sorulari", "algoritma-sorulari\algoritma-sorulari.csproj", "{FA322E0D-4737-401E-9612-4477E7369843}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{1B30C35B-9AD0-47ED-BA52-54E2D6526072}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B30C35B-9AD0-47ED-BA52-54E2D6526072}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B30C35B-9AD0-47ED-BA52-54E2D6526072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA322E0D-4737-401E-9612-4477E7369843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA322E0D-4737-401E-9612-4477E7369843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA322E0D-4737-401E-9612-4477E7369843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA322E0D-4737-401E-9612-4477E7369843}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
