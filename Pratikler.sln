@@ -41,7 +41,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hazir_metotlar_datetime_mat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "generic_list", "generic_list\generic_list.csproj", "{1177BB30-5797-482C-ABD9-905D1109F5E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arraylist", "arraylist\arraylist.csproj", "{F7B01F88-AF18-47B5-80C7-6E6D5975CA7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "arraylist", "arraylist\arraylist.csproj", "{F7B01F88-AF18-47B5-80C7-6E6D5975CA7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dictionary", "dictionary\dictionary.csproj", "{646DBBFC-C49F-49E7-A3E6-138092316CA4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{F7B01F88-AF18-47B5-80C7-6E6D5975CA7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7B01F88-AF18-47B5-80C7-6E6D5975CA7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7B01F88-AF18-47B5-80C7-6E6D5975CA7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{646DBBFC-C49F-49E7-A3E6-138092316CA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{646DBBFC-C49F-49E7-A3E6-138092316CA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{646DBBFC-C49F-49E7-A3E6-138092316CA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{646DBBFC-C49F-49E7-A3E6-138092316CA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
