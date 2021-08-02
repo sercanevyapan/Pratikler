@@ -43,7 +43,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "generic_list", "generic_lis
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "arraylist", "arraylist\arraylist.csproj", "{F7B01F88-AF18-47B5-80C7-6E6D5975CA7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dictionary", "dictionary\dictionary.csproj", "{646DBBFC-C49F-49E7-A3E6-138092316CA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dictionary", "dictionary\dictionary.csproj", "{646DBBFC-C49F-49E7-A3E6-138092316CA4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar-Soru-1", "Koleksiyonlar-Soru-1\Koleksiyonlar-Soru-1.csproj", "{55E84006-F652-4304-A377-6E9E0E241BEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar-Soru-2", "Koleksiyonlar-Soru-2\Koleksiyonlar-Soru-2.csproj", "{AE17CDF5-4259-4240-9DC1-7ACF1F5EABC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar-Soru-3", "Koleksiyonlar-Soru-3\Koleksiyonlar-Soru-3.csproj", "{13DE2805-9271-4F62-8F14-0210B6BA6DBD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +141,18 @@ Global
 		{646DBBFC-C49F-49E7-A3E6-138092316CA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{646DBBFC-C49F-49E7-A3E6-138092316CA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{646DBBFC-C49F-49E7-A3E6-138092316CA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55E84006-F652-4304-A377-6E9E0E241BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E84006-F652-4304-A377-6E9E0E241BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E84006-F652-4304-A377-6E9E0E241BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E84006-F652-4304-A377-6E9E0E241BEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE17CDF5-4259-4240-9DC1-7ACF1F5EABC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE17CDF5-4259-4240-9DC1-7ACF1F5EABC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE17CDF5-4259-4240-9DC1-7ACF1F5EABC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE17CDF5-4259-4240-9DC1-7ACF1F5EABC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13DE2805-9271-4F62-8F14-0210B6BA6DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13DE2805-9271-4F62-8F14-0210B6BA6DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13DE2805-9271-4F62-8F14-0210B6BA6DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13DE2805-9271-4F62-8F14-0210B6BA6DBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
