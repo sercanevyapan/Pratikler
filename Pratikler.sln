@@ -47,9 +47,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dictionary", "dictionary\di
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar-Soru-1", "Koleksiyonlar-Soru-1\Koleksiyonlar-Soru-1.csproj", "{55E84006-F652-4304-A377-6E9E0E241BEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar-Soru-2", "Koleksiyonlar-Soru-2\Koleksiyonlar-Soru-2.csproj", "{AE17CDF5-4259-4240-9DC1-7ACF1F5EABC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar-Soru-2", "Koleksiyonlar-Soru-2\Koleksiyonlar-Soru-2.csproj", "{AE17CDF5-4259-4240-9DC1-7ACF1F5EABC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar-Soru-3", "Koleksiyonlar-Soru-3\Koleksiyonlar-Soru-3.csproj", "{13DE2805-9271-4F62-8F14-0210B6BA6DBD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar-Soru-3", "Koleksiyonlar-Soru-3\Koleksiyonlar-Soru-3.csproj", "{13DE2805-9271-4F62-8F14-0210B6BA6DBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sinif_kavrami", "sinif_kavrami\sinif_kavrami.csproj", "{0BAAAC20-D936-49F5-B4A3-37BE03934310}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{13DE2805-9271-4F62-8F14-0210B6BA6DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13DE2805-9271-4F62-8F14-0210B6BA6DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13DE2805-9271-4F62-8F14-0210B6BA6DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BAAAC20-D936-49F5-B4A3-37BE03934310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BAAAC20-D936-49F5-B4A3-37BE03934310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BAAAC20-D936-49F5-B4A3-37BE03934310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BAAAC20-D936-49F5-B4A3-37BE03934310}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
