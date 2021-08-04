@@ -51,7 +51,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar-Soru-2", "Kol
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar-Soru-3", "Koleksiyonlar-Soru-3\Koleksiyonlar-Soru-3.csproj", "{13DE2805-9271-4F62-8F14-0210B6BA6DBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sinif_kavrami", "sinif_kavrami\sinif_kavrami.csproj", "{0BAAAC20-D936-49F5-B4A3-37BE03934310}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sinif_kavrami", "sinif_kavrami\sinif_kavrami.csproj", "{0BAAAC20-D936-49F5-B4A3-37BE03934310}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "encapsulation", "encapsulation\encapsulation.csproj", "{BD9BBED9-DF19-4371-8803-F9CDAB5ACC6B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +161,10 @@ Global
 		{0BAAAC20-D936-49F5-B4A3-37BE03934310}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BAAAC20-D936-49F5-B4A3-37BE03934310}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BAAAC20-D936-49F5-B4A3-37BE03934310}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD9BBED9-DF19-4371-8803-F9CDAB5ACC6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD9BBED9-DF19-4371-8803-F9CDAB5ACC6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD9BBED9-DF19-4371-8803-F9CDAB5ACC6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD9BBED9-DF19-4371-8803-F9CDAB5ACC6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
