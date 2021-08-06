@@ -21,5 +21,10 @@ namespace inheritance
             Console.WriteLine("Canlılar beslenir.");
         }
 
+        public virtual void UyaranlaraTepki()
+        {
+            Console.WriteLine("Canlılar uyaranlara tepki verir.");
+        }
+
     }
 }
