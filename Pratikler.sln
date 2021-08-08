@@ -67,7 +67,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "arayuzler", "arayuzler\aray
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "arayuzler_ornek", "arayuzler_ornek\arayuzler_ornek.csproj", "{98F27C56-942B-4F88-8F2A-5411FEE2B1E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abstract_class", "abstract_class\abstract_class.csproj", "{BC2A8BA7-52F4-4BDB-BF4E-D59D9BDBF50C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "abstract_class", "abstract_class\abstract_class.csproj", "{BC2A8BA7-52F4-4BDB-BF4E-D59D9BDBF50C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelefonRehberiUygulaması", "TelefonRehberiUygulaması\TelefonRehberiUygulaması.csproj", "{41A806EB-1E15-463D-B8AC-BBF991C94C37}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -207,6 +209,10 @@ Global
 		{BC2A8BA7-52F4-4BDB-BF4E-D59D9BDBF50C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC2A8BA7-52F4-4BDB-BF4E-D59D9BDBF50C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC2A8BA7-52F4-4BDB-BF4E-D59D9BDBF50C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41A806EB-1E15-463D-B8AC-BBF991C94C37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41A806EB-1E15-463D-B8AC-BBF991C94C37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41A806EB-1E15-463D-B8AC-BBF991C94C37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41A806EB-1E15-463D-B8AC-BBF991C94C37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
